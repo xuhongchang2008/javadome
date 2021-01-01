@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="baizhi-spring5-annotation01-ssm:war">
+    <output-path>$PROJECT_DIR$/baizhi-spring5-annotation01-ssm/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>baizhi-spring5-annotation01-ssm</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="baizhi-spring5-annotation01-ssm-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="baizhi-spring5-annotation01-ssm:war exploded" />
+    </root>
+  </artifact>
+</component>

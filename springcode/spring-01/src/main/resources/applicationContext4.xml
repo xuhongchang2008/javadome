@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:p="http://www.springframework.org/schema/p"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="person" class="com.xhc.springcode.basic.Person">
+        <property name="id" value="1"/>
+        <property name="name" value="xhc"/>
+        <property name="emails" >
+            <list>
+                <value>suns@zparkhr.com.cn</value>
+                <value>liucy@zparkhr.com.cn</value>
+                <value>chenyn@zparkhr.com.cn</value>
+            </list>
+        </property>
+        <property name="tels" >
+            <set>
+                <value>138111111</value>
+                <value>139111111</value>
+                <value>166111111</value>
+                <value>166111111</value>
+                <value>166111111</value>
+            </set>
+        </property>
+        <property name="addresses">
+            <list>
+                <value>zpark</value>
+                <value>shangdi</value>
+                <value>xierq</value>
+                <value>xierq</value>
+                <value>xierq</value>
+            </list>
+        </property>
+
+        <property name="p">
+            <props>
+                <prop key="key1">value1</prop>
+                <prop key="key2">value2</prop>
+            </props>
+        </property>
+
+        <property name="qqs">
+            <map>
+                <entry>
+                    <key><value>suns</value></key>
+                    <value>3434334343</value>
+                </entry>
+                <entry>
+                    <key><value>chenyn</value></key>
+                    <value>73737373</value>
+                </entry>
+            </map>
+        </property>
+    </bean>
+
+
+
+</beans>

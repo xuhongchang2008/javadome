@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:aop="http://www.springframework.org/schema/aop" xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop.xsd"> <!-- bean definitions here -->
+	
+	<!-- 配置客户的dao -->
+	<bean id="customerDao" class="com.xhc.springcode.aspect.xml.CustomerDaoImpl"/>
+	<!-- 编写切面类配置好 -->
+	<bean id="myAspectXml" class="com.xhc.springcode.aspect.xml.MyAspectXml"/>
+	<!-- 配置AOP -->
+	<aop:config>
+		<aop:pointcut id="aopPointcut" expression="execution(public void com.xhc.springcode.aspect.xml.CustomerDaoImpl.save())"/>
+		<aop:aspect ref="myAspectXml">
+			<aop:around method="around" pointcut-ref="aopPointcut"/>
+			<aop:before method="log" pointcut-ref="aopPointcut"/>
+			<aop:after-returning method="afterReturn" pointcut-ref="aopPointcut"/>
+			<aop:after method="after" pointcut-ref="aopPointcut"/>
+		</aop:aspect>
+	</aop:config>
+
+
+</beans>
+
+
+
+
+
+
+

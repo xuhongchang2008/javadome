@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+    <table border="1px">
+        <tr>
+            <th>编号</th>
+            <th>姓名</th>
+            <th>性别</th>
+            <th>总记录数</th>
+            <th>偶数/奇数</th>
+            <th>第一个元素</th>
+            <th>最后一个元素</th>
+        </tr>
+        <!--
+            user :     第1个值,代表每次迭代出对象,名字任意取
+            iterStat : 第2个值,代表每次迭代器内置对象, 名字任意取, 并有如下属性:
+            index : 当前迭代下标 0 开始
+            count : 当前迭代下标 1 开始
+            size  : 获取总记录数
+            current :　当前迭代出的对象
+            even/odd : 当前迭代是偶数还是奇数 (1开始算,返回布尔值)
+            first : 当前是否为第一个元素
+            last : 当前是否为最后一个元素
+         -->
+        <!--th:each作用在哪个标签上面，对应的就会根据它的值迭代多少次-->
+        <tr th:each="user,iterStat :${userList}">
+            <td th:text="${iterStat.count}">111</td>
+            <td th:text="${user.username}">111</td>
+            <td th:text="${user.gender == 1 ? '女' : '男'}">未知</td>
+            <td th:text="${iterStat.size}"></td>
+            <td th:text="${iterStat.even ? '偶数' : '奇数'}"></td>
+            <td th:text="${iterStat.first}"></td>
+            <td th:text="${iterStat.last}"></td>
+        </tr>
+
+    </table>
+
+    <ul>
+        <li th:each="user : ${userList}" th:text="${user.username}"> </li>
+    </ul>
+
+    <hr/>
+    <!--th:if如果值为true，则显示出该 标签，否则 不显示
+        ${#lists.isEmpty(userList)} true 说明 userList 是空       not   false
+         ${#lists.isEmpty(userList)} false 说明 userList 不是空的  not   true
+    -->
+    <h3 th:if="not ${#lists.isEmpty(userList)}">显示出来则userList集合不是空的</h3>
+    <h3 th:unless="${#lists.isEmpty(userList)}">显示出来则userList集合不是空的</h3>
+
+    <hr/>
+    <div th:switch="${sex}">
+        <p th:case="1">女</p>
+        <!--获取man值与sex对比-->
+        <p th:case="${man}">男</p>
+        <!--如果上面均不满足，取下面默认值-->
+        <p th:case="*">未知</p>
+    </div>
+
+    <hr/>
+    <div th:text="${desc}"></div>
+    <!--不转义特殊字符，直接显示出应该有的效果-->
+    <div th:utext="${desc}"></div>
+
+    <br/>
+    <!--th:object获取${session.user}对象-->
+    <div th:object="${session.user}">
+        <!--上面已经将对象获取出来了，下面直接写属性名即可获取到值-->
+        <p> 姓名：<span th:text="*{username}"></span></p>
+        <p> 性别：<span th:text="*{gender == 1 ? '女' : '男'}"></span></p>
+    </div>
+    <div>热部署测试...............</div>
+</body>
+</html>

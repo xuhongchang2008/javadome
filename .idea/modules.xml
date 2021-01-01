@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/demo-spring-boot-starter/demo-spring-boot-starter.iml" filepath="$PROJECT_DIR$/demo-spring-boot-starter/demo-spring-boot-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-jc/java-jc.iml" filepath="$PROJECT_DIR$/java-jc/java-jc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/javadome.iml" filepath="$PROJECT_DIR$/.idea/javadome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud/microservice-cloud-01/microservice-cloud-01.iml" filepath="$PROJECT_DIR$/springcloud/microservice-cloud-01/microservice-cloud-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud/microservice-cloud-02-api/microservice-cloud-02-api.iml" filepath="$PROJECT_DIR$/springcloud/microservice-cloud-02-api/microservice-cloud-02-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud/microservice-cloud-03-provider-product-8001/microservice-cloud-03-provider-product-8001.iml" filepath="$PROJECT_DIR$/springcloud/microservice-cloud-03-provider-product-8001/microservice-cloud-03-provider-product-8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud/microservice-cloud-04-consumer-product-80/microservice-cloud-04-consumer-product-80.iml" filepath="$PROJECT_DIR$/springcloud/microservice-cloud-04-consumer-product-80/microservice-cloud-04-consumer-product-80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud/microservice-cloud-05-eureka-6001/microservice-cloud-05-eureka-6001.iml" filepath="$PROJECT_DIR$/springcloud/microservice-cloud-05-eureka-6001/microservice-cloud-05-eureka-6001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud/microservice-cloud-05-eureka-6002/microservice-cloud-05-eureka-6002.iml" filepath="$PROJECT_DIR$/springcloud/microservice-cloud-05-eureka-6002/microservice-cloud-05-eureka-6002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud/microservice-cloud-06-provider-product-8002/microservice-cloud-06-provider-product-8002.iml" filepath="$PROJECT_DIR$/springcloud/microservice-cloud-06-provider-product-8002/microservice-cloud-06-provider-product-8002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud/microservice-cloud-07-consumer-product-feign/microservice-cloud-07-consumer-product-feign.iml" filepath="$PROJECT_DIR$/springcloud/microservice-cloud-07-consumer-product-feign/microservice-cloud-07-consumer-product-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud/microservice-cloud-08-provider-product-hystrix-8001/microservice-cloud-08-provider-product-hystrix-8001.iml" filepath="$PROJECT_DIR$/springcloud/microservice-cloud-08-provider-product-hystrix-8001/microservice-cloud-08-provider-product-hystrix-8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud/microservice-cloud-09-hystrix-dashboard-9001/microservice-cloud-09-hystrix-dashboard-9001.iml" filepath="$PROJECT_DIR$/springcloud/microservice-cloud-09-hystrix-dashboard-9001/microservice-cloud-09-hystrix-dashboard-9001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud/microservice-cloud-10-zuul-gateway-7001/microservice-cloud-10-zuul-gateway-7001.iml" filepath="$PROJECT_DIR$/springcloud/microservice-cloud-10-zuul-gateway-7001/microservice-cloud-10-zuul-gateway-7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud/microservice-cloud-11-config-server-5001/microservice-cloud-11-config-server-5001.iml" filepath="$PROJECT_DIR$/springcloud/microservice-cloud-11-config-server-5001/microservice-cloud-11-config-server-5001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud/microservice-cloud-12-config-client-8080/microservice-cloud-12-config-client-8080.iml" filepath="$PROJECT_DIR$/springcloud/microservice-cloud-12-config-client-8080/microservice-cloud-12-config-client-8080.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud/microservice-cloud-13-eureka-config-6001/microservice-cloud-13-eureka-config-6001.iml" filepath="$PROJECT_DIR$/springcloud/microservice-cloud-13-eureka-config-6001/microservice-cloud-13-eureka-config-6001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud/microservice-cloud-14-product-config-8001/microservice-cloud-14-product-config-8001.iml" filepath="$PROJECT_DIR$/springcloud/microservice-cloud-14-product-config-8001/microservice-cloud-14-product-config-8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcode/spring-01/spring-01.iml" filepath="$PROJECT_DIR$/springcode/spring-01/spring-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcode/spring-02/spring-02.iml" filepath="$PROJECT_DIR$/springcode/spring-02/spring-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcode/spring-03/spring-03.iml" filepath="$PROJECT_DIR$/springcode/spring-03/spring-03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcode/spring-04/spring-04.iml" filepath="$PROJECT_DIR$/springcode/spring-04/spring-04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springsource/spring-annotation/spring-annotation.iml" filepath="$PROJECT_DIR$/springsource/spring-annotation/spring-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot/spring-boot-00-bill/spring-boot-00-bill.iml" filepath="$PROJECT_DIR$/springboot/spring-boot-00-bill/spring-boot-00-bill.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot/spring-boot-01-hello/spring-boot-01-hello.iml" filepath="$PROJECT_DIR$/springboot/spring-boot-01-hello/spring-boot-01-hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot/spring-boot-01-init-02/spring-boot-01-init-02.iml" filepath="$PROJECT_DIR$/springboot/spring-boot-01-init-02/spring-boot-01-init-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot/spring-boot-02-config/spring-boot-02-config.iml" filepath="$PROJECT_DIR$/springboot/spring-boot-02-config/spring-boot-02-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot/spring-boot-02-config-02/spring-boot-02-config-02.iml" filepath="$PROJECT_DIR$/springboot/spring-boot-02-config-02/spring-boot-02-config-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot/spring-boot-03-logging/spring-boot-03-logging.iml" filepath="$PROJECT_DIR$/springboot/spring-boot-03-logging/spring-boot-03-logging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot/spring-boot-04-web/spring-boot-04-web.iml" filepath="$PROJECT_DIR$/springboot/spring-boot-04-web/spring-boot-04-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot/spring-boot-05-bill/spring-boot-05-bill.iml" filepath="$PROJECT_DIR$/springboot/spring-boot-05-bill/spring-boot-05-bill.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot/spring-boot-06-servlet/spring-boot-06-servlet.iml" filepath="$PROJECT_DIR$/springboot/spring-boot-06-servlet/spring-boot-06-servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot/spring-boot-07-tomcat/spring-boot-07-tomcat.iml" filepath="$PROJECT_DIR$/springboot/spring-boot-07-tomcat/spring-boot-07-tomcat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot/spring-boot-08-data-jdbc/spring-boot-08-data-jdbc.iml" filepath="$PROJECT_DIR$/springboot/spring-boot-08-data-jdbc/spring-boot-08-data-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot/spring-boot-08-data-mybatis/spring-boot-08-data-mybatis.iml" filepath="$PROJECT_DIR$/springboot/spring-boot-08-data-mybatis/spring-boot-08-data-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot/spring-boot-09-data-jpa/spring-boot-09-data-jpa.iml" filepath="$PROJECT_DIR$/springboot/spring-boot-09-data-jpa/spring-boot-09-data-jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot/spring-boot-10-bill/spring-boot-10-bill.iml" filepath="$PROJECT_DIR$/springboot/spring-boot-10-bill/spring-boot-10-bill.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot/spring-boot-11-task/spring-boot-11-task.iml" filepath="$PROJECT_DIR$/springboot/spring-boot-11-task/spring-boot-11-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot/spring-boot-12-mail/spring-boot-12-mail.iml" filepath="$PROJECT_DIR$/springboot/spring-boot-12-mail/spring-boot-12-mail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot/spring-boot-13-cache/spring-boot-13-cache.iml" filepath="$PROJECT_DIR$/springboot/spring-boot-13-cache/spring-boot-13-cache.iml" />
+    </modules>
+  </component>
+</project>
