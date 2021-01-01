@@ -14,9 +14,10 @@ import org.springframework.web.bind.annotation.ResponseBody;
 public class InitController {
 
     @ResponseBody
+
     @RequestMapping("/info")
     public String init() {
-        return "hello init...";
+        return "hello init.......";
     }
 
 }
