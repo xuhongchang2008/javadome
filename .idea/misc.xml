@@ -44,6 +44,7 @@
         <option value="$PROJECT_DIR$/springcloud/microservice-cloud-09-hystrix-dashboard-9001/pom.xml" />
         <option value="$PROJECT_DIR$/springcloud/microservice-cloud-08-provider-product-hystrix-8001/pom.xml" />
         <option value="$PROJECT_DIR$/springsource/spring-annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloudall/pom.xml" />
         <option value="$PROJECT_DIR$/demo-spring-boot-starter/pom.xml" />
       </list>
     </option>

@@ -2,11 +2,13 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/demo-spring-boot-starter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-spring-boot-starter/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot/spring-boot-00-bill/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot/spring-boot-00-bill/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot/spring-boot-01-hello/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot/spring-boot-01-hello/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot/spring-boot-01-init-02/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot/spring-boot-01-init-02/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot/spring-boot-02-config-02/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot/spring-boot-02-config-02/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot/spring-boot-02-config/src/main/java" charset="UTF-8" />
@@ -20,12 +22,12 @@
     <file url="file://$PROJECT_DIR$/springboot/spring-boot-06-servlet/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot/spring-boot-06-servlet/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot/spring-boot-07-tomcat/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot/spring-boot-07-tomcat/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot/spring-boot-08-data-jdbc/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot/spring-boot-08-data-jdbc/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot/spring-boot-08-data-mybatis/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot/spring-boot-08-data-mybatis/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot/spring-boot-09-data-jpa/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/springboot/spring-boot-09-data-jpa/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot/spring-boot-10-bill/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot/spring-boot-10-bill/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot/spring-boot-11-task/src/main/java" charset="UTF-8" />
@@ -38,6 +40,7 @@
     <file url="file://$PROJECT_DIR$/springcloud/microservice-cloud-03-provider-product-8001/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud/microservice-cloud-03-provider-product-8001/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud/microservice-cloud-04-consumer-product-80/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud/microservice-cloud-04-consumer-product-80/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud/microservice-cloud-05-eureka-6001/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud/microservice-cloud-05-eureka-6001/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud/microservice-cloud-05-eureka-6002/src/main/java" charset="UTF-8" />
@@ -57,7 +60,73 @@
     <file url="file://$PROJECT_DIR$/springcloud/microservice-cloud-12-config-client-8080/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud/microservice-cloud-12-config-client-8080/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud/microservice-cloud-13-eureka-config-6001/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud/microservice-cloud-13-eureka-config-6001/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud/microservice-cloud-14-product-config-8001/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud/microservice-cloud-14-product-config-8001/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/cloud-api-commons/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/cloud-api-commons/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/cloud-config-center-3344/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/cloud-config-center-3344/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/cloud-config-client-3355/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/cloud-config-client-3355/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/cloud-config-client-3366/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/cloud-config-client-3366/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/cloud-consumer-feign-hystrix-order80/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/cloud-consumer-feign-hystrix-order80/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/cloud-consumer-feign-order80/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/cloud-consumer-feign-order80/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/cloud-consumer-hystrix-dashboard9001/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/cloud-consumer-hystrix-dashboard9001/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/cloud-consumer-order80/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/cloud-consumer-order80/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/cloud-consumerconsul-order80/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/cloud-consumerconsul-order80/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/cloud-consumerzk-order80/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/cloud-consumerzk-order80/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/cloud-eureka-server7001/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/cloud-eureka-server7001/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/cloud-eureka-server7002/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/cloud-eureka-server7002/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/cloud-gateway-gateway9527/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/cloud-gateway-gateway9527/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/cloud-provider-hystrix-payment8001/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/cloud-provider-hystrix-payment8001/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/cloud-provider-payment8001/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/cloud-provider-payment8001/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/cloud-provider-payment8002/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/cloud-provider-payment8002/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/cloud-provider-payment8004/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/cloud-provider-payment8004/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/cloud-providerconsul-payment8006/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/cloud-providerconsul-payment8006/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/cloud-stream-rabbitmq-consumer8802/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/cloud-stream-rabbitmq-consumer8802/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/cloud-stream-rabbitmq-consumer8803/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/cloud-stream-rabbitmq-consumer8803/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/cloud-stream-rabbitmq-provider8801/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/cloud-stream-rabbitmq-provider8801/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/cloudalibaba-config-nacos-client3377/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/cloudalibaba-config-nacos-client3377/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/cloudalibaba-consumer-nacos-order83/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/cloudalibaba-consumer-nacos-order83/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/cloudalibaba-consumer-nacos-order84/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/cloudalibaba-consumer-nacos-order84/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/cloudalibaba-provider-payment9001/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/cloudalibaba-provider-payment9001/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/cloudalibaba-provider-payment9002/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/cloudalibaba-provider-payment9002/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/cloudalibaba-provider-payment9003/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/cloudalibaba-provider-payment9003/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/cloudalibaba-provider-payment9004/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/cloudalibaba-provider-payment9004/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/cloudalibaba-sentinel-service8401/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/cloudalibaba-sentinel-service8401/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/seata-account-service2003/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/seata-account-service2003/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/seata-order-service2001/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/seata-order-service2001/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/seata-storage-service2002/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudall/seata-storage-service2002/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcode/spring-01/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcode/spring-01/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcode/spring-02/src/main/java" charset="UTF-8" />
