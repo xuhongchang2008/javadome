@@ -18,7 +18,7 @@ public class AsyncController {
     public String hello() {
         asyncService.batchAdd();
 
-        return "success";
+        return "success";  
     }
 
 }
