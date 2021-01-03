@@ -11,13 +11,13 @@ import org.springframework.web.bind.annotation.PathVariable;
  * @auther xhc
  * @create 2020-02-19 23:59
  */
-@Component
-@FeignClient(value = "CLOUD-PAYMENT-SERVICE")
+@Component //注册到容器中
+@FeignClient(value = "CLOUD-PAYMENT-SERVICE") //服务名称
 public interface PaymentFeignService
 {
-    @GetMapping(value = "/payment/get/{id}")
+    @GetMapping(value = "/payment/get/{id}") //接口名称
     public CommonResult<Payment> getPaymentById(@PathVariable("id") Long id);
 
-    @GetMapping(value = "/payment/feign/timeout")
+    @GetMapping(value = "/payment/feign/timeout") //接口名称
     public String paymentFeignTimeout();
 }

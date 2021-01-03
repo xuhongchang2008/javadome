@@ -2,6 +2,7 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
@@ -120,7 +121,7 @@
       <module name="microservice-cloud-07-consumer-product-feign" target="15" />
       <module name="microservice-cloud-08-provider-product-hystrix-8001" target="15" />
       <module name="microservice-cloud-09-hystrix-dashboard-9001" target="15" />
-      <module name="microservice-cloud-10-zuul-gateway-7001" target="15" />
+      <module name="microservice-cloud-10-zuul-gateway-7001" target="1.8" />
       <module name="microservice-cloud-11-config-server-5001" target="15" />
       <module name="microservice-cloud-12-config-client-8080" target="15" />
       <module name="microservice-cloud-13-eureka-config-6001" target="15" />
