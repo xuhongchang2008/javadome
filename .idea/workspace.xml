@@ -23,9 +23,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3312e79d-a035-4f11-9042-e28fc673b599" name="Default Changelist" comment="添加spring cloud 部分">
+      <change afterPath="$PROJECT_DIR$/springcloudall/cloudalibaba-sentinel-service8401/src/main/java/com/xhc/springcloud/alibaba/myhandler/FilePersistence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloudall/springcloud资料/springcloud alibaba.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloudall/springcloud资料/springcloud alibaba.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java知识总结.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/java知识总结.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloudall/springcloud资料/pom文件+脑图/~$SpringCloud 第二季2020.03.05.mmap.~$lock" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,11 +64,19 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="E:/工作文件/代码/学科网3/JavaCode/dsp-gateway" />
+    <property name="last_opened_file_path" value="E:/工作文件/代码/学科网3/JavaCode/dsp-gateway_zuul" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\资料\学习资料\Java\javadome\springcloudall\springcloud资料" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\资料\学习资料\Java\javadome\springcloudall\springcloud资料" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="configurationTypes">
@@ -425,7 +435,9 @@
       <workItem from="1609635356629" duration="12656000" />
       <workItem from="1609722411674" duration="8162000" />
       <workItem from="1609807297525" duration="7044000" />
-      <workItem from="1609893460430" duration="6073000" />
+      <workItem from="1609893460430" duration="6885000" />
+      <workItem from="1609979205619" duration="2453000" />
+      <workItem from="1610065761156" duration="6818000" />
     </task>
     <task id="LOCAL-00001" summary="添加spring cloud 部分">
       <created>1609485357341</created>
@@ -448,7 +460,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609847782640</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="添加spring cloud 部分">
+      <created>1609905716828</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1609905716828</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -471,10 +490,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="添加spring cloud 部分" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1180" y="282" key="FileChooserDialogImpl" timestamp="1609901918585">
+    <state x="-1180" y="282" key="FileChooserDialogImpl" timestamp="1610086232723">
       <screen x="-1920" y="8" width="1920" height="1040" />
     </state>
-    <state x="-1180" y="282" key="FileChooserDialogImpl/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1609901918585" />
+    <state x="-1180" y="282" key="FileChooserDialogImpl/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1610086232723" />
     <state x="-1430" y="182" key="Maven.ArtifactSearchDialog" timestamp="1609722913228">
       <screen x="-1920" y="8" width="1920" height="1040" />
     </state>
@@ -483,10 +502,10 @@
       <screen x="-1920" y="8" width="1920" height="1040" />
     </state>
     <state x="-1459" y="172" key="SettingsEditor/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1609725274452" />
-    <state x="-1368" y="256" key="Vcs.Push.Dialog.v2" timestamp="1609847797494">
+    <state x="-1368" y="256" key="Vcs.Push.Dialog.v2" timestamp="1609905758416">
       <screen x="-1920" y="8" width="1920" height="1040" />
     </state>
-    <state x="-1368" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1609847797494" />
+    <state x="-1368" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1609905758416" />
     <state x="-1257" y="244" width="594" height="568" key="find.popup" timestamp="1609842617071">
       <screen x="-1920" y="8" width="1920" height="1040" />
     </state>
