@@ -22,10 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3312e79d-a035-4f11-9042-e28fc673b599" name="Default Changelist" comment="添加spring cloud 部分">
-      <change afterPath="$PROJECT_DIR$/springcloudall/cloudalibaba-sentinel-service8401/src/main/java/com/xhc/springcloud/alibaba/myhandler/FilePersistence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloudall/springcloud资料/springcloud alibaba.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloudall/springcloud资料/springcloud alibaba.pdf" afterDir="false" />
+    <list default="true" id="3312e79d-a035-4f11-9042-e28fc673b599" name="Default Changelist" comment="添加sentinel 部分">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java知识总结.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/java知识总结.xlsx" afterDir="false" />
     </list>
@@ -438,6 +435,8 @@
       <workItem from="1609893460430" duration="6885000" />
       <workItem from="1609979205619" duration="2453000" />
       <workItem from="1610065761156" duration="6818000" />
+      <workItem from="1610087428401" duration="3775000" />
+      <workItem from="1610325642313" duration="1740000" />
     </task>
     <task id="LOCAL-00001" summary="添加spring cloud 部分">
       <created>1609485357341</created>
@@ -467,7 +466,21 @@
       <option name="project" value="LOCAL" />
       <updated>1609905716828</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="添加spring cloud 部分">
+      <created>1610087550601</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1610087550601</updated>
+    </task>
+    <task id="LOCAL-00006" summary="添加sentinel 部分">
+      <created>1610087622469</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1610087622469</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -487,7 +500,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="添加spring cloud 部分" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加spring cloud 部分" />
+    <MESSAGE value="添加sentinel 部分" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加sentinel 部分" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1180" y="282" key="FileChooserDialogImpl" timestamp="1610086232723">
@@ -502,10 +516,10 @@
       <screen x="-1920" y="8" width="1920" height="1040" />
     </state>
     <state x="-1459" y="172" key="SettingsEditor/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1609725274452" />
-    <state x="-1368" y="256" key="Vcs.Push.Dialog.v2" timestamp="1609905758416">
+    <state x="-1368" y="256" key="Vcs.Push.Dialog.v2" timestamp="1610087634353">
       <screen x="-1920" y="8" width="1920" height="1040" />
     </state>
-    <state x="-1368" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1609905758416" />
+    <state x="-1368" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1610087634353" />
     <state x="-1257" y="244" width="594" height="568" key="find.popup" timestamp="1609842617071">
       <screen x="-1920" y="8" width="1920" height="1040" />
     </state>
