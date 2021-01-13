@@ -26,7 +26,6 @@ public class TestReadWriteLock {
 		
 		for (int i = 0; i < 100; i++) {
 			new Thread(new Runnable() {
-				
 				@Override
 				public void run() {
 					rw.get();

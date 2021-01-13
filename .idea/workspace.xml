@@ -22,47 +22,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3312e79d-a035-4f11-9042-e28fc673b599" name="Default Changelist" comment="添加 jmm 资料">
-      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JUC_01/TestAtomicDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JUC_01/TestCompareAndSwap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JUC_01/TestCopyOnWriteArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JUC_01/TestCountDownLatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JUC_01/TestVolatile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JUC_02/TestABCAlternate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JUC_02/TestCallable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JUC_02/TestForkJoinPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JUC_02/TestLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JUC_02/TestProductorAndConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JUC_02/TestProductorAndConsumerForLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JUC_02/TestReadWriteLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JUC_02/TestScheduledThreadPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JUC_02/TestThread8Monitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JUC_02/TestThreadPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JavaJUC.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JavaJUC.pdf" afterDir="false" />
+    <list default="true" id="3312e79d-a035-4f11-9042-e28fc673b599" name="Default Changelist" comment="添加 Juc 资料">
+      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JavaJUC/aHR0cDovL2ltZy5ibG9nLmNzZG4ubmV0LzIwMTYwMTI3MTAxNDE4NDIx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JavaJUC/image-20200528090822776.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JavaJUC/image-20200604170401451.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JavaJUC/image-20200605095151322.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JavaJUC/image-20200605153815710.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/AlternationDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/AtomicDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/CallableDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/ForkJoinSumCalculate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/LatchDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/LatchDemo_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/ReadWriterLockDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/TestCallable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/TestConcurrent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/TestCountDownLatch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/TestForkJoinPool.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/TestIcon.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/TestLock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/TestLoopPrint.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/TestReadWriterLock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/TestScheduledThreadPool.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/TestThreadPool.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/TestVolatile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/ThreadDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/ThreadDemo2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/ThreadPoolDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/Ticket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JUC_01/TestAtomicDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JUC_01/TestAtomicDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JUC_02/TestReadWriteLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JUC_02/TestReadWriteLock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java知识总结.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/java知识总结.xlsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,13 +99,13 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AtomicIntegerTest">
-    <configuration name="AtomicIntegerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xhc.javabased.java_jj.code_16.AtomicIntegerTest" />
+  <component name="RunManager" selected="Application.TestThread8Monitor">
+    <configuration name="TestCallable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xhc.javabased.java_jj.code_16.JUC_02.TestCallable" />
       <module name="java-jc" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xhc.javabased.java_jj.code_16.*" />
+          <option name="PATTERN" value="com.xhc.javabased.java_jj.code_16.JUC_02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestForkJoinPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xhc.javabased.java_jj.code_16.TestForkJoinPool" />
+    <configuration name="TestLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xhc.javabased.java_jj.code_16.JUC_02.TestLock" />
       <module name="java-jc" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xhc.javabased.java_jj.code_16.*" />
+          <option name="PATTERN" value="com.xhc.javabased.java_jj.code_16.JUC_02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestReadWriterLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xhc.javabased.java_jj.code_16.TestReadWriterLock" />
+    <configuration name="TestProductorAndConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xhc.javabased.java_jj.code_16.JUC_02.TestProductorAndConsumer" />
       <module name="java-jc" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xhc.javabased.java_jj.code_16.*" />
+          <option name="PATTERN" value="com.xhc.javabased.java_jj.code_16.JUC_02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestScheduledThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xhc.javabased.java_jj.code_16.TestScheduledThreadPool" />
+    <configuration name="TestReadWriteLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xhc.javabased.java_jj.code_16.JUC_02.TestReadWriteLock" />
       <module name="java-jc" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xhc.javabased.java_jj.code_16.*" />
+          <option name="PATTERN" value="com.xhc.javabased.java_jj.code_16.JUC_02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -183,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xhc.javabased.java_jj.code_16.TestThreadPool" />
+    <configuration name="TestThread8Monitor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xhc.javabased.java_jj.code_16.JUC_02.TestThread8Monitor" />
       <module name="java-jc" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xhc.javabased.java_jj.code_16.*" />
+          <option name="PATTERN" value="com.xhc.javabased.java_jj.code_16.JUC_02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -527,11 +496,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AtomicIntegerTest" />
-        <item itemvalue="Application.TestForkJoinPool" />
-        <item itemvalue="Application.TestScheduledThreadPool" />
-        <item itemvalue="Application.TestThreadPool" />
-        <item itemvalue="Application.TestReadWriterLock" />
+        <item itemvalue="Application.TestThread8Monitor" />
+        <item itemvalue="Application.TestReadWriteLock" />
+        <item itemvalue="Application.TestProductorAndConsumer" />
+        <item itemvalue="Application.TestLock" />
+        <item itemvalue="Application.TestCallable" />
       </list>
     </recent_temporary>
   </component>
@@ -560,7 +529,7 @@
       <workItem from="1610087428401" duration="3775000" />
       <workItem from="1610325642313" duration="4775000" />
       <workItem from="1610411894949" duration="9583000" />
-      <workItem from="1610498456904" duration="3887000" />
+      <workItem from="1610498456904" duration="10863000" />
     </task>
     <task id="LOCAL-00001" summary="添加spring cloud 部分">
       <created>1609485357341</created>
@@ -632,7 +601,21 @@
       <option name="project" value="LOCAL" />
       <updated>1610426805737</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="添加 Juc 资料">
+      <created>1610504324898</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1610504324898</updated>
+    </task>
+    <task id="LOCAL-00012" summary="添加 Juc 资料">
+      <created>1610504859138</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1610504859138</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -655,45 +638,46 @@
     <MESSAGE value="添加sentinel 部分" />
     <MESSAGE value="添加 jvm 资料" />
     <MESSAGE value="添加 jmm 资料" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加 jmm 资料" />
+    <MESSAGE value="添加 Juc 资料" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加 Juc 资料" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-873" y="241" key="FileChooserDialogImpl" timestamp="1610500296185">
       <screen x="-1920" y="8" width="1920" height="1040" />
     </state>
     <state x="-873" y="241" key="FileChooserDialogImpl/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1610500296185" />
-    <state width="1877" height="275" key="GridCell.Tab.0.bottom" timestamp="1610501840575">
+    <state width="1877" height="339" key="GridCell.Tab.0.bottom" timestamp="1610519317837">
       <screen x="-1920" y="8" width="1920" height="1040" />
     </state>
-    <state width="1877" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1610501840575" />
-    <state width="1877" height="275" key="GridCell.Tab.0.center" timestamp="1610501840575">
+    <state width="1877" height="339" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1610519317837" />
+    <state width="1877" height="339" key="GridCell.Tab.0.center" timestamp="1610519317837">
       <screen x="-1920" y="8" width="1920" height="1040" />
     </state>
-    <state width="1877" height="275" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1610501840575" />
-    <state width="1877" height="275" key="GridCell.Tab.0.left" timestamp="1610501840574">
+    <state width="1877" height="339" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1610519317837" />
+    <state width="1877" height="339" key="GridCell.Tab.0.left" timestamp="1610519317837">
       <screen x="-1920" y="8" width="1920" height="1040" />
     </state>
-    <state width="1877" height="275" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1610501840574" />
-    <state width="1877" height="275" key="GridCell.Tab.0.right" timestamp="1610501840575">
+    <state width="1877" height="339" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1610519317837" />
+    <state width="1877" height="339" key="GridCell.Tab.0.right" timestamp="1610519317837">
       <screen x="-1920" y="8" width="1920" height="1040" />
     </state>
-    <state width="1877" height="275" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1610501840575" />
-    <state width="1877" height="339" key="GridCell.Tab.1.bottom" timestamp="1610420781671">
+    <state width="1877" height="339" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1610519317837" />
+    <state width="1877" height="339" key="GridCell.Tab.1.bottom" timestamp="1610519317837">
       <screen x="-1920" y="8" width="1920" height="1040" />
     </state>
-    <state width="1877" height="339" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1610420781671" />
-    <state width="1877" height="339" key="GridCell.Tab.1.center" timestamp="1610420781670">
+    <state width="1877" height="339" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1610519317837" />
+    <state width="1877" height="339" key="GridCell.Tab.1.center" timestamp="1610519317837">
       <screen x="-1920" y="8" width="1920" height="1040" />
     </state>
-    <state width="1877" height="339" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1610420781670" />
-    <state width="1877" height="339" key="GridCell.Tab.1.left" timestamp="1610420781670">
+    <state width="1877" height="339" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1610519317837" />
+    <state width="1877" height="339" key="GridCell.Tab.1.left" timestamp="1610519317837">
       <screen x="-1920" y="8" width="1920" height="1040" />
     </state>
-    <state width="1877" height="339" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1610420781670" />
-    <state width="1877" height="339" key="GridCell.Tab.1.right" timestamp="1610420781670">
+    <state width="1877" height="339" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1610519317837" />
+    <state width="1877" height="339" key="GridCell.Tab.1.right" timestamp="1610519317837">
       <screen x="-1920" y="8" width="1920" height="1040" />
     </state>
-    <state width="1877" height="339" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1610420781670" />
+    <state width="1877" height="339" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1610519317837" />
     <state x="-1430" y="182" key="Maven.ArtifactSearchDialog" timestamp="1609722913228">
       <screen x="-1920" y="8" width="1920" height="1040" />
     </state>
@@ -702,10 +686,10 @@
       <screen x="-1920" y="8" width="1920" height="1040" />
     </state>
     <state x="-1459" y="172" key="SettingsEditor/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1609725274452" />
-    <state x="-1368" y="256" key="Vcs.Push.Dialog.v2" timestamp="1610426818092">
+    <state x="-1368" y="256" key="Vcs.Push.Dialog.v2" timestamp="1610504871605">
       <screen x="-1920" y="8" width="1920" height="1040" />
     </state>
-    <state x="-1368" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1610426818092" />
+    <state x="-1368" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1610504871605" />
     <state x="-1257" y="244" width="594" height="568" key="find.popup" timestamp="1609842617071">
       <screen x="-1920" y="8" width="1920" height="1040" />
     </state>
