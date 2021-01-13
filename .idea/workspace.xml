@@ -23,30 +23,46 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3312e79d-a035-4f11-9042-e28fc673b599" name="Default Changelist" comment="添加 jmm 资料">
-      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/AlternationDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/AtomicDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/CallableDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/ForkJoinSumCalculate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/LatchDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/LatchDemo_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/ReadWriterLockDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/TestCallable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/TestConcurrent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/TestCountDownLatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/TestForkJoinPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/TestIcon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/TestLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/TestLoopPrint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/TestReadWriterLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/TestScheduledThreadPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/TestThreadPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/TestVolatile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/ThreadDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/ThreadDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/ThreadPoolDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JUC_01/TestAtomicDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JUC_01/TestCompareAndSwap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JUC_01/TestCopyOnWriteArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JUC_01/TestCountDownLatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JUC_01/TestVolatile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JUC_02/TestABCAlternate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JUC_02/TestCallable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JUC_02/TestForkJoinPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JUC_02/TestLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JUC_02/TestProductorAndConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JUC_02/TestProductorAndConsumerForLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JUC_02/TestReadWriteLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JUC_02/TestScheduledThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JUC_02/TestThread8Monitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JUC_02/TestThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JavaJUC.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JavaJUC.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java知识总结.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/java知识总结.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/AlternationDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/AtomicDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/CallableDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/ForkJoinSumCalculate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/LatchDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/LatchDemo_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/ReadWriterLockDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/TestCallable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/TestConcurrent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/TestCountDownLatch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/TestForkJoinPool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/TestIcon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/TestLock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/TestLoopPrint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/TestReadWriterLock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/TestScheduledThreadPool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/TestThreadPool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/TestVolatile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/ThreadDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/ThreadDemo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/ThreadPoolDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/Ticket.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +102,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/JVM资料" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -96,11 +112,14 @@
     <option name="notificationShown" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\资料\学习资料\Java\javadome\java-jc\src\main\java\com\xhc\javabased\java_jj\code_16" />
+      <recent name="F:\资料\学习资料\Java\javadome\java-jc\src\main\java\com\xhc\javabased\java_jj\code_16\JUC_02" />
+      <recent name="F:\资料\学习资料\Java\javadome\java-jc\src\main\java\com\xhc\javabased\java_jj\code_16\JUC_01" />
+      <recent name="F:\资料\学习资料\Java\javadome\JVM资料" />
       <recent name="F:\资料\学习资料\Java\javadome\springcloudall\springcloud资料" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\资料\学习资料\Java\javadome\JVM资料" />
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\资料\学习资料\Java\javadome\springcloudall\springcloud资料" />
     </key>
   </component>
@@ -111,9 +130,9 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestForkJoinPool">
-    <configuration name="TestForkJoinPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xhc.javabased.java_jj.code_16.TestForkJoinPool" />
+  <component name="RunManager" selected="Application.AtomicIntegerTest">
+    <configuration name="AtomicIntegerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xhc.javabased.java_jj.code_16.AtomicIntegerTest" />
       <module name="java-jc" />
       <extension name="coverage">
         <pattern>
@@ -125,8 +144,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestLoopPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xhc.javabased.java_jj.code_16.TestLoopPrint" />
+    <configuration name="TestForkJoinPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xhc.javabased.java_jj.code_16.TestForkJoinPool" />
       <module name="java-jc" />
       <extension name="coverage">
         <pattern>
@@ -508,11 +527,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AtomicIntegerTest" />
         <item itemvalue="Application.TestForkJoinPool" />
         <item itemvalue="Application.TestScheduledThreadPool" />
         <item itemvalue="Application.TestThreadPool" />
         <item itemvalue="Application.TestReadWriterLock" />
-        <item itemvalue="Application.TestLoopPrint" />
       </list>
     </recent_temporary>
   </component>
@@ -540,7 +559,8 @@
       <workItem from="1610065761156" duration="6818000" />
       <workItem from="1610087428401" duration="3775000" />
       <workItem from="1610325642313" duration="4775000" />
-      <workItem from="1610411894949" duration="6571000" />
+      <workItem from="1610411894949" duration="9583000" />
+      <workItem from="1610498456904" duration="3887000" />
     </task>
     <task id="LOCAL-00001" summary="添加spring cloud 部分">
       <created>1609485357341</created>
@@ -605,7 +625,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610362557079</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="添加 jmm 资料">
+      <created>1610426805737</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1610426805737</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -631,26 +658,26 @@
     <option name="LAST_COMMIT_MESSAGE" value="添加 jmm 资料" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1180" y="282" key="FileChooserDialogImpl" timestamp="1610354825063">
+    <state x="-873" y="241" key="FileChooserDialogImpl" timestamp="1610500296185">
       <screen x="-1920" y="8" width="1920" height="1040" />
     </state>
-    <state x="-1180" y="282" key="FileChooserDialogImpl/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1610354825063" />
-    <state width="1877" height="275" key="GridCell.Tab.0.bottom" timestamp="1610426712499">
+    <state x="-873" y="241" key="FileChooserDialogImpl/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1610500296185" />
+    <state width="1877" height="275" key="GridCell.Tab.0.bottom" timestamp="1610501840575">
       <screen x="-1920" y="8" width="1920" height="1040" />
     </state>
-    <state width="1877" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1610426712499" />
-    <state width="1877" height="275" key="GridCell.Tab.0.center" timestamp="1610426712498">
+    <state width="1877" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1610501840575" />
+    <state width="1877" height="275" key="GridCell.Tab.0.center" timestamp="1610501840575">
       <screen x="-1920" y="8" width="1920" height="1040" />
     </state>
-    <state width="1877" height="275" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1610426712498" />
-    <state width="1877" height="275" key="GridCell.Tab.0.left" timestamp="1610426712498">
+    <state width="1877" height="275" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1610501840575" />
+    <state width="1877" height="275" key="GridCell.Tab.0.left" timestamp="1610501840574">
       <screen x="-1920" y="8" width="1920" height="1040" />
     </state>
-    <state width="1877" height="275" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1610426712498" />
-    <state width="1877" height="275" key="GridCell.Tab.0.right" timestamp="1610426712498">
+    <state width="1877" height="275" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1610501840574" />
+    <state width="1877" height="275" key="GridCell.Tab.0.right" timestamp="1610501840575">
       <screen x="-1920" y="8" width="1920" height="1040" />
     </state>
-    <state width="1877" height="275" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1610426712498" />
+    <state width="1877" height="275" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1610501840575" />
     <state width="1877" height="339" key="GridCell.Tab.1.bottom" timestamp="1610420781671">
       <screen x="-1920" y="8" width="1920" height="1040" />
     </state>
@@ -675,33 +702,14 @@
       <screen x="-1920" y="8" width="1920" height="1040" />
     </state>
     <state x="-1459" y="172" key="SettingsEditor/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1609725274452" />
-    <state x="-1368" y="256" key="Vcs.Push.Dialog.v2" timestamp="1610362565874">
+    <state x="-1368" y="256" key="Vcs.Push.Dialog.v2" timestamp="1610426818092">
       <screen x="-1920" y="8" width="1920" height="1040" />
     </state>
-    <state x="-1368" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1610362565874" />
+    <state x="-1368" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1610426818092" />
     <state x="-1257" y="244" width="594" height="568" key="find.popup" timestamp="1609842617071">
       <screen x="-1920" y="8" width="1920" height="1040" />
     </state>
     <state x="-1257" y="244" width="594" height="568" key="find.popup/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1609842617071" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/TestVolatile.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/ForkJoinSumCalculate.java</url>
-          <line>19</line>
-          <properties class="com.xhc.javabased.java_jj.code_16.ForkJoinSumCalculate" method="compute">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
