@@ -16,7 +16,9 @@ public class TestForkJoinPool {
 		
 		ForkJoinPool pool = new ForkJoinPool();
 		
-		ForkJoinTask<Long> task = new ForkJoinSumCalculate(0L, 50000000000L);
+		//ForkJoinTask<Long> task = new ForkJoinSumCalculate(0L, 50000000000L);
+
+		ForkJoinTask<Long> task = new ForkJoinSumCalculate(0L, 100L);
 		
 		Long sum = pool.invoke(task);
 		
@@ -72,7 +74,9 @@ class ForkJoinSumCalculate extends RecursiveTask<Long>{
 	private long start;
 	private long end;
 	
-	private static final long THURSHOLD = 10000L;  //临界值
+	//private static final long THURSHOLD = 10000L;  //临界值
+	private static final long THURSHOLD = 10L;  //临界值
+
 	
 	public ForkJoinSumCalculate(long start, long end) {
 		this.start = start;

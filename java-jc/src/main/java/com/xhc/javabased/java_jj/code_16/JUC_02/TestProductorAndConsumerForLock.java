@@ -35,7 +35,7 @@ class Clerk {
 		lock.lock();
 
 		try {
-			if (product >= 1) { // 为了避免虚假唤醒，应该总是使用在循环中。
+			while (product >= 1) { // 为了避免虚假唤醒，应该总是使用在循环中。
 				System.out.println("产品已满！");
 
 				try {
@@ -59,7 +59,7 @@ class Clerk {
 		lock.lock();
 
 		try {
-			if (product <= 0) {
+			while (product <= 0) {
 				System.out.println("缺货！");
 
 				try {

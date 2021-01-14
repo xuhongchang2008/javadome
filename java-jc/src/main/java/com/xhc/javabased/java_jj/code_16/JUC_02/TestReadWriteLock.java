@@ -20,11 +20,29 @@ public class TestReadWriteLock {
 			@Override
 			public void run() {
 				rw.set((int)(Math.random() * 101));
+
 			}
 		}, "Write:").start();
 		
 		
-		for (int i = 0; i < 100; i++) {
+		for (int i = 0; i < 10; i++) {
+			new Thread(new Runnable() {
+				@Override
+				public void run() {
+					rw.get();
+				}
+			}).start();
+		}
+
+		new Thread(new Runnable() {
+
+			@Override
+			public void run() {
+				rw.set((int)(Math.random() * 1001));
+			}
+		}, "Write:").start();
+
+		for (int i = 0; i < 10; i++) {
 			new Thread(new Runnable() {
 				@Override
 				public void run() {
@@ -47,6 +65,10 @@ class ReadWriteLockDemo{
 		lock.readLock().lock(); //上锁
 		
 		try{
+			try {
+				Thread.sleep(2000);
+			} catch (InterruptedException e) {
+			}
 			System.out.println(Thread.currentThread().getName() + " : " + number);
 		}finally{
 			lock.readLock().unlock(); //释放锁
@@ -58,8 +80,14 @@ class ReadWriteLockDemo{
 		lock.writeLock().lock();
 		
 		try{
-			System.out.println(Thread.currentThread().getName());
+			try {
+				Thread.sleep(200);
+			} catch (InterruptedException e) {
+			}
+
 			this.number = number;
+			System.out.println(Thread.currentThread().getName()  + this.number);
+
 		}finally{
 			lock.writeLock().unlock();
 		}
