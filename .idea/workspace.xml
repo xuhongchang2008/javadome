@@ -23,26 +23,72 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3312e79d-a035-4f11-9042-e28fc673b599" name="Default Changelist" comment="添加 Juc 资料">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JUC_02/TestForkJoinPoolTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JUC_03/TestAtomicBooleanDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JUC_03/TestAtomicIntegerArrayDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JUC_03/TestAtomicIntegerFieldUpdaterDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JUC_03/TestAtomicReferenceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JUC_04/Demo_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JUC_04/Demo_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JUC_04/Demo_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JUC_04/Demo_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JUC_04/Demo_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JUC_04/Demo_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JUC_04/Demo_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JUC_04/Demo_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__cn_hutool_hutool_all_5_5_6.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JUC_01/TestAtomicDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JUC_03/TestAtomicIntegerDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JUC_02/TestForkJoinPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JUC_02/TestForkJoinPool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JUC_02/TestProductorAndConsumerForLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JUC_02/TestProductorAndConsumerForLock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JUC_02/TestReadWriteLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16/JUC_02/TestReadWriteLock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java知识总结.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/java知识总结.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-spring-boot-starter/demo-spring-boot-starter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/demo-spring-boot-starter/demo-spring-boot-starter.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/spring-boot-00-bill/spring-boot-00-bill.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot/spring-boot-00-bill/spring-boot-00-bill.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/spring-boot-01-hello/spring-boot-01-hello.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot/spring-boot-01-hello/spring-boot-01-hello.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/spring-boot-01-init-02/spring-boot-01-init-02.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot/spring-boot-01-init-02/spring-boot-01-init-02.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/spring-boot-02-config-02/spring-boot-02-config-02.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot/spring-boot-02-config-02/spring-boot-02-config-02.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/spring-boot-02-config/spring-boot-02-config.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot/spring-boot-02-config/spring-boot-02-config.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/spring-boot-03-logging/spring-boot-03-logging.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot/spring-boot-03-logging/spring-boot-03-logging.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/spring-boot-04-web/spring-boot-04-web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot/spring-boot-04-web/spring-boot-04-web.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/spring-boot-05-bill/spring-boot-05-bill.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot/spring-boot-05-bill/spring-boot-05-bill.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/spring-boot-10-bill/spring-boot-10-bill.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot/spring-boot-10-bill/spring-boot-10-bill.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud/microservice-cloud-01/microservice-cloud-01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud/microservice-cloud-01/microservice-cloud-01.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud/microservice-cloud-02-api/microservice-cloud-02-api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud/microservice-cloud-02-api/microservice-cloud-02-api.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud/microservice-cloud-03-provider-product-8001/microservice-cloud-03-provider-product-8001.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud/microservice-cloud-03-provider-product-8001/microservice-cloud-03-provider-product-8001.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud/microservice-cloud-04-consumer-product-80/microservice-cloud-04-consumer-product-80.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud/microservice-cloud-04-consumer-product-80/microservice-cloud-04-consumer-product-80.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud/microservice-cloud-05-eureka-6001/microservice-cloud-05-eureka-6001.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud/microservice-cloud-05-eureka-6001/microservice-cloud-05-eureka-6001.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud/microservice-cloud-05-eureka-6002/microservice-cloud-05-eureka-6002.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud/microservice-cloud-05-eureka-6002/microservice-cloud-05-eureka-6002.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud/microservice-cloud-06-provider-product-8002/microservice-cloud-06-provider-product-8002.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud/microservice-cloud-06-provider-product-8002/microservice-cloud-06-provider-product-8002.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud/microservice-cloud-07-consumer-product-feign/microservice-cloud-07-consumer-product-feign.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud/microservice-cloud-07-consumer-product-feign/microservice-cloud-07-consumer-product-feign.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud/microservice-cloud-08-provider-product-hystrix-8001/microservice-cloud-08-provider-product-hystrix-8001.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud/microservice-cloud-08-provider-product-hystrix-8001/microservice-cloud-08-provider-product-hystrix-8001.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud/microservice-cloud-09-hystrix-dashboard-9001/microservice-cloud-09-hystrix-dashboard-9001.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud/microservice-cloud-09-hystrix-dashboard-9001/microservice-cloud-09-hystrix-dashboard-9001.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud/microservice-cloud-10-zuul-gateway-7001/microservice-cloud-10-zuul-gateway-7001.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud/microservice-cloud-10-zuul-gateway-7001/microservice-cloud-10-zuul-gateway-7001.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud/microservice-cloud-11-config-server-5001/microservice-cloud-11-config-server-5001.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud/microservice-cloud-11-config-server-5001/microservice-cloud-11-config-server-5001.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud/microservice-cloud-12-config-client-8080/microservice-cloud-12-config-client-8080.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud/microservice-cloud-12-config-client-8080/microservice-cloud-12-config-client-8080.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud/microservice-cloud-13-eureka-config-6001/microservice-cloud-13-eureka-config-6001.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud/microservice-cloud-13-eureka-config-6001/microservice-cloud-13-eureka-config-6001.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud/microservice-cloud-14-product-config-8001/microservice-cloud-14-product-config-8001.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud/microservice-cloud-14-product-config-8001/microservice-cloud-14-product-config-8001.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloudall/cloud-api-commons/cloud-api-commons.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloudall/cloud-api-commons/cloud-api-commons.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloudall/cloud-config-center-3344/cloud-config-center-3344.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloudall/cloud-config-center-3344/cloud-config-center-3344.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloudall/cloud-config-client-3355/cloud-config-client-3355.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloudall/cloud-config-client-3355/cloud-config-client-3355.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloudall/cloud-config-client-3366/cloud-config-client-3366.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloudall/cloud-config-client-3366/cloud-config-client-3366.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloudall/cloud-consumer-feign-hystrix-order80/cloud-consumer-feign-hystrix-order80.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloudall/cloud-consumer-feign-hystrix-order80/cloud-consumer-feign-hystrix-order80.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloudall/cloud-consumer-feign-order80/cloud-consumer-feign-order80.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloudall/cloud-consumer-feign-order80/cloud-consumer-feign-order80.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloudall/cloud-consumer-hystrix-dashboard9001/cloud-consumer-hystrix-dashboard9001.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloudall/cloud-consumer-hystrix-dashboard9001/cloud-consumer-hystrix-dashboard9001.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloudall/cloud-consumer-order80/cloud-consumer-order80.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloudall/cloud-consumer-order80/cloud-consumer-order80.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloudall/cloud-consumerconsul-order80/cloud-consumerconsul-order80.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloudall/cloud-consumerconsul-order80/cloud-consumerconsul-order80.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloudall/cloud-consumerzk-order80/cloud-consumerzk-order80.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloudall/cloud-consumerzk-order80/cloud-consumerzk-order80.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloudall/cloud-eureka-server7001/cloud-eureka-server7001.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloudall/cloud-eureka-server7001/cloud-eureka-server7001.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloudall/cloud-eureka-server7002/cloud-eureka-server7002.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloudall/cloud-eureka-server7002/cloud-eureka-server7002.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloudall/cloud-gateway-gateway9527/cloud-gateway-gateway9527.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloudall/cloud-gateway-gateway9527/cloud-gateway-gateway9527.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloudall/cloud-provider-hystrix-payment8001/cloud-provider-hystrix-payment8001.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloudall/cloud-provider-hystrix-payment8001/cloud-provider-hystrix-payment8001.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloudall/cloud-provider-payment8001/cloud-provider-payment8001.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloudall/cloud-provider-payment8001/cloud-provider-payment8001.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloudall/cloud-provider-payment8002/cloud-provider-payment8002.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloudall/cloud-provider-payment8002/cloud-provider-payment8002.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloudall/cloud-provider-payment8004/cloud-provider-payment8004.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloudall/cloud-provider-payment8004/cloud-provider-payment8004.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloudall/cloud-providerconsul-payment8006/cloud-providerconsul-payment8006.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloudall/cloud-providerconsul-payment8006/cloud-providerconsul-payment8006.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloudall/cloud-stream-rabbitmq-consumer8802/cloud-stream-rabbitmq-consumer8802.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloudall/cloud-stream-rabbitmq-consumer8802/cloud-stream-rabbitmq-consumer8802.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloudall/cloud-stream-rabbitmq-consumer8803/cloud-stream-rabbitmq-consumer8803.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloudall/cloud-stream-rabbitmq-consumer8803/cloud-stream-rabbitmq-consumer8803.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloudall/cloud-stream-rabbitmq-provider8801/cloud-stream-rabbitmq-provider8801.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloudall/cloud-stream-rabbitmq-provider8801/cloud-stream-rabbitmq-provider8801.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloudall/cloudalibaba-config-nacos-client3377/cloudalibaba-config-nacos-client3377.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloudall/cloudalibaba-config-nacos-client3377/cloudalibaba-config-nacos-client3377.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloudall/cloudalibaba-consumer-nacos-order83/cloudalibaba-consumer-nacos-order83.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloudall/cloudalibaba-consumer-nacos-order83/cloudalibaba-consumer-nacos-order83.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloudall/cloudalibaba-consumer-nacos-order84/cloudalibaba-consumer-nacos-order84.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloudall/cloudalibaba-consumer-nacos-order84/cloudalibaba-consumer-nacos-order84.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloudall/cloudalibaba-provider-payment9001/cloudalibaba-provider-payment9001.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloudall/cloudalibaba-provider-payment9001/cloudalibaba-provider-payment9001.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloudall/cloudalibaba-provider-payment9002/cloudalibaba-provider-payment9002.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloudall/cloudalibaba-provider-payment9002/cloudalibaba-provider-payment9002.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloudall/cloudalibaba-provider-payment9003/cloudalibaba-provider-payment9003.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloudall/cloudalibaba-provider-payment9003/cloudalibaba-provider-payment9003.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloudall/cloudalibaba-provider-payment9004/cloudalibaba-provider-payment9004.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloudall/cloudalibaba-provider-payment9004/cloudalibaba-provider-payment9004.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloudall/cloudalibaba-sentinel-service8401/cloudalibaba-sentinel-service8401.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloudall/cloudalibaba-sentinel-service8401/cloudalibaba-sentinel-service8401.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloudall/seata-account-service2003/seata-account-service2003.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloudall/seata-account-service2003/seata-account-service2003.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloudall/seata-order-service2001/seata-order-service2001.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloudall/seata-order-service2001/seata-order-service2001.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloudall/seata-storage-service2002/seata-storage-service2002.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloudall/seata-storage-service2002/seata-storage-service2002.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloudall/springcloudall.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloudall/springcloudall.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcode/spring-01/spring-01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springcode/spring-01/spring-01.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcode/spring-02/spring-02.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springcode/spring-02/spring-02.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcode/spring-03/spring-03.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springcode/spring-03/spring-03.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcode/spring-04/spring-04.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springcode/spring-04/spring-04.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +109,7 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="D:\Maven\maven-repository" />
-        <option name="mavenHome" value="D:/apache-maven/apache-maven-3.6.3" />
+        <option name="mavenHome" value="D:\apache-maven\apache-maven-3.6.3" />
         <option name="userSettingsFile" value="D:\apache-maven\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -111,9 +157,9 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestForkJoinPoolTwo">
-    <configuration name="Demo_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xhc.javabased.java_jj.code_16.JUC_04.Demo_7" />
+  <component name="RunManager" selected="Application.Demo_8">
+    <configuration name="Demo_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xhc.javabased.java_jj.code_16.JUC_04.Demo_8" />
       <module name="java-jc" />
       <extension name="coverage">
         <pattern>
@@ -508,15 +554,15 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo_8" />
         <item itemvalue="Application.TestForkJoinPoolTwo" />
         <item itemvalue="Application.TestForkJoinPool" />
         <item itemvalue="Application.TestThreadPool" />
         <item itemvalue="Application.TestScheduledThreadPool" />
-        <item itemvalue="Application.Demo_7" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -543,6 +589,10 @@
       <workItem from="1610411894949" duration="9583000" />
       <workItem from="1610498456904" duration="13419000" />
       <workItem from="1610584497019" duration="14207000" />
+      <workItem from="1610736785325" duration="635000" />
+      <workItem from="1610758319123" duration="345000" />
+      <workItem from="1610758728972" duration="18000" />
+      <workItem from="1610758780715" duration="108000" />
     </task>
     <task id="LOCAL-00001" summary="添加spring cloud 部分">
       <created>1609485357341</created>
@@ -646,7 +696,7 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -667,72 +717,6 @@
     <MESSAGE value="添加 jmm 资料" />
     <MESSAGE value="添加 Juc 资料" />
     <option name="LAST_COMMIT_MESSAGE" value="添加 Juc 资料" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="-768" y="112" key="#xdebugger.evaluate" timestamp="1610587889504">
-      <screen x="-1920" y="8" width="1920" height="1040" />
-    </state>
-    <state x="-768" y="112" key="#xdebugger.evaluate/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1610587889504" />
-    <state width="394" height="618" key="DebuggerActiveHint" timestamp="1610587732710">
-      <screen x="-1920" y="8" width="1920" height="1040" />
-    </state>
-    <state width="394" height="618" key="DebuggerActiveHint/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1610587732710" />
-    <state x="-873" y="241" key="FileChooserDialogImpl" timestamp="1610500296185">
-      <screen x="-1920" y="8" width="1920" height="1040" />
-    </state>
-    <state x="-873" y="241" key="FileChooserDialogImpl/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1610500296185" />
-    <state width="1877" height="245" key="GridCell.Tab.0.bottom" timestamp="1610605169872">
-      <screen x="-1920" y="8" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="245" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1610605169872" />
-    <state width="1877" height="245" key="GridCell.Tab.0.center" timestamp="1610605169872">
-      <screen x="-1920" y="8" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="245" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1610605169872" />
-    <state width="1877" height="245" key="GridCell.Tab.0.left" timestamp="1610605169872">
-      <screen x="-1920" y="8" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="245" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1610605169872" />
-    <state width="1877" height="245" key="GridCell.Tab.0.right" timestamp="1610605169872">
-      <screen x="-1920" y="8" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="245" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1610605169872" />
-    <state width="1877" height="339" key="GridCell.Tab.1.bottom" timestamp="1610600668074">
-      <screen x="-1920" y="8" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="339" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1610600668074" />
-    <state width="1877" height="339" key="GridCell.Tab.1.center" timestamp="1610600668074">
-      <screen x="-1920" y="8" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="339" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1610600668074" />
-    <state width="1877" height="339" key="GridCell.Tab.1.left" timestamp="1610600668074">
-      <screen x="-1920" y="8" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="339" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1610600668074" />
-    <state width="1877" height="339" key="GridCell.Tab.1.right" timestamp="1610600668074">
-      <screen x="-1920" y="8" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="339" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1610600668074" />
-    <state x="-1430" y="182" key="Maven.ArtifactSearchDialog" timestamp="1609722913228">
-      <screen x="-1920" y="8" width="1920" height="1040" />
-    </state>
-    <state x="-1430" y="182" key="Maven.ArtifactSearchDialog/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1609722913228" />
-    <state x="-1459" y="172" key="SettingsEditor" timestamp="1609725274452">
-      <screen x="-1920" y="8" width="1920" height="1040" />
-    </state>
-    <state x="-1459" y="172" key="SettingsEditor/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1609725274452" />
-    <state x="-1368" y="256" key="Vcs.Push.Dialog.v2" timestamp="1610532131141">
-      <screen x="-1920" y="8" width="1920" height="1040" />
-    </state>
-    <state x="-1368" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1610532131141" />
-    <state x="-1231" y="316" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1610586647098">
-      <screen x="-1920" y="8" width="1920" height="1040" />
-    </state>
-    <state x="-1231" y="316" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1610586647098" />
-    <state x="-1257" y="244" width="594" height="568" key="find.popup" timestamp="1609842617071">
-      <screen x="-1920" y="8" width="1920" height="1040" />
-    </state>
-    <state x="-1257" y="244" width="594" height="568" key="find.popup/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1609842617071" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

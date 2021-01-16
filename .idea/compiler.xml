@@ -7,151 +7,151 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="spring-boot-04-web" />
-        <module name="cloud-provider-hystrix-payment8001" />
-        <module name="cloud-config-client-3355" />
-        <module name="cloud-provider-payment8004" />
-        <module name="spring-boot-00-bill" />
-        <module name="cloud-provider-payment8002" />
-        <module name="cloud-provider-payment8001" />
-        <module name="seata-order-service2001" />
-        <module name="microservice-cloud-06-provider-product-8002" />
-        <module name="spring-boot-02-config-02" />
-        <module name="microservice-cloud-05-eureka-6001" />
-        <module name="microservice-cloud-07-consumer-product-feign" />
-        <module name="cloud-providerconsul-payment8006" />
-        <module name="demo-spring-boot-starter" />
-        <module name="cloud-consumerzk-order80" />
-        <module name="spring-boot-01-init-02" />
-        <module name="cloud-stream-rabbitmq-consumer8803" />
-        <module name="cloud-stream-rabbitmq-consumer8802" />
-        <module name="spring-boot-05-bill" />
-        <module name="spring-boot-02-config" />
-        <module name="spring-04" />
-        <module name="spring-03" />
-        <module name="spring-02" />
-        <module name="spring-01" />
         <module name="microservice-cloud-09-hystrix-dashboard-9001" />
-        <module name="microservice-cloud-04-consumer-product-80" />
+        <module name="microservice-cloud-07-consumer-product-feign" />
+        <module name="microservice-cloud-06-provider-product-8002" />
+        <module name="seata-order-service2001" />
+        <module name="spring-boot-13-cache" />
+        <module name="cloudalibaba-consumer-nacos-order84" />
+        <module name="spring-boot-05-bill" />
+        <module name="cloud-consumer-feign-hystrix-order80" />
+        <module name="cloud-consumerzk-order80" />
+        <module name="cloud-stream-rabbitmq-consumer8802" />
+        <module name="cloud-stream-rabbitmq-consumer8803" />
+        <module name="cloud-config-center-3344" />
+        <module name="cloud-provider-hystrix-payment8001" />
+        <module name="cloud-config-client-3366" />
+        <module name="cloudalibaba-config-nacos-client3377" />
+        <module name="cloud-api-commons" />
         <module name="spring-boot-06-servlet" />
+        <module name="spring-boot-11-task" />
+        <module name="spring-boot-00-bill" />
+        <module name="microservice-cloud-14-product-config-8001" />
+        <module name="cloud-gateway-gateway9527" />
+        <module name="cloudalibaba-consumer-nacos-order83" />
+        <module name="seata-account-service2003" />
+        <module name="spring-boot-01-hello" />
+        <module name="spring-boot-03-logging" />
+        <module name="cloudalibaba-sentinel-service8401" />
+        <module name="cloud-config-client-3355" />
+        <module name="spring-boot-07-tomcat" />
+        <module name="java-jc" />
+        <module name="demo-spring-boot-starter" />
+        <module name="cloud-eureka-server7001" />
+        <module name="spring-boot-12-mail" />
+        <module name="spring-boot-10-bill" />
+        <module name="cloud-eureka-server7002" />
         <module name="microservice-cloud-11-config-server-5001" />
+        <module name="microservice-cloud-08-provider-product-hystrix-8001" />
+        <module name="spring-boot-08-data-mybatis" />
+        <module name="cloud-stream-rabbitmq-provider8801" />
+        <module name="microservice-cloud-03-provider-product-8001" />
+        <module name="cloud-consumerconsul-order80" />
+        <module name="spring-boot-02-config-02" />
+        <module name="spring-boot-01-init-02" />
+        <module name="spring-boot-02-config" />
+        <module name="spring-boot-08-data-jdbc" />
+        <module name="microservice-cloud-13-eureka-config-6001" />
+        <module name="cloud-consumer-feign-order80" />
+        <module name="cloud-providerconsul-payment8006" />
+        <module name="cloud-provider-payment8002" />
+        <module name="microservice-cloud-02-api" />
+        <module name="microservice-cloud-05-eureka-6002" />
+        <module name="cloud-provider-payment8004" />
+        <module name="microservice-cloud-12-config-client-8080" />
+        <module name="microservice-cloud-05-eureka-6001" />
+        <module name="microservice-cloud-10-zuul-gateway-7001" />
+        <module name="cloud-provider-payment8001" />
+        <module name="cloud-consumer-hystrix-dashboard9001" />
+        <module name="spring-02" />
         <module name="cloudalibaba-provider-payment9004" />
+        <module name="spring-03" />
         <module name="cloudalibaba-provider-payment9003" />
         <module name="cloudalibaba-provider-payment9002" />
+        <module name="spring-01" />
         <module name="cloudalibaba-provider-payment9001" />
-        <module name="microservice-cloud-13-eureka-config-6001" />
-        <module name="cloud-config-center-3344" />
-        <module name="spring-boot-09-data-jpa" />
-        <module name="cloud-gateway-gateway9527" />
-        <module name="microservice-cloud-08-provider-product-hystrix-8001" />
-        <module name="microservice-cloud-14-product-config-8001" />
-        <module name="spring-boot-11-task" />
-        <module name="cloud-consumer-hystrix-dashboard9001" />
-        <module name="spring-boot-13-cache" />
-        <module name="spring-boot-10-bill" />
-        <module name="cloudalibaba-config-nacos-client3377" />
-        <module name="microservice-cloud-03-provider-product-8001" />
-        <module name="cloud-consumer-order80" />
-        <module name="spring-boot-08-data-mybatis" />
-        <module name="microservice-cloud-05-eureka-6002" />
-        <module name="cloudalibaba-sentinel-service8401" />
+        <module name="spring-04" />
         <module name="seata-storage-service2002" />
-        <module name="cloudalibaba-consumer-nacos-order84" />
-        <module name="cloudalibaba-consumer-nacos-order83" />
-        <module name="java-jc" />
-        <module name="spring-boot-07-tomcat" />
-        <module name="spring-boot-03-logging" />
-        <module name="microservice-cloud-12-config-client-8080" />
-        <module name="spring-boot-01-hello" />
-        <module name="cloud-eureka-server7002" />
-        <module name="cloud-eureka-server7001" />
-        <module name="microservice-cloud-02-api" />
-        <module name="cloud-stream-rabbitmq-provider8801" />
-        <module name="cloud-consumer-feign-hystrix-order80" />
-        <module name="cloud-config-client-3366" />
-        <module name="spring-boot-12-mail" />
-        <module name="spring-boot-08-data-jdbc" />
+        <module name="microservice-cloud-04-consumer-product-80" />
         <module name="spring-annotation" />
-        <module name="cloud-consumer-feign-order80" />
-        <module name="cloud-api-commons" />
-        <module name="cloud-consumerconsul-order80" />
-        <module name="microservice-cloud-10-zuul-gateway-7001" />
-        <module name="seata-account-service2003" />
+        <module name="cloud-consumer-order80" />
+        <module name="spring-boot-09-data-jpa" />
+        <module name="spring-boot-04-web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="cloud-api-commons" target="1.8" />
-      <module name="cloud-config-center-3344" target="1.8" />
-      <module name="cloud-config-client-3355" target="1.8" />
-      <module name="cloud-config-client-3366" target="1.8" />
-      <module name="cloud-consumer-feign-hystrix-order80" target="1.8" />
-      <module name="cloud-consumer-feign-order80" target="1.8" />
-      <module name="cloud-consumer-hystrix-dashboard9001" target="1.8" />
-      <module name="cloud-consumer-order80" target="1.8" />
-      <module name="cloud-consumerconsul-order80" target="1.8" />
-      <module name="cloud-consumerzk-order80" target="1.8" />
-      <module name="cloud-eureka-server7001" target="1.8" />
-      <module name="cloud-eureka-server7002" target="1.8" />
-      <module name="cloud-gateway-gateway9527" target="1.8" />
-      <module name="cloud-provider-hystrix-payment8001" target="1.8" />
-      <module name="cloud-provider-payment8001" target="1.8" />
-      <module name="cloud-provider-payment8002" target="1.8" />
-      <module name="cloud-provider-payment8004" target="1.8" />
-      <module name="cloud-providerconsul-payment8006" target="1.8" />
-      <module name="cloud-stream-rabbitmq-consumer8802" target="1.8" />
-      <module name="cloud-stream-rabbitmq-consumer8803" target="1.8" />
-      <module name="cloud-stream-rabbitmq-provider8801" target="1.8" />
-      <module name="cloudalibaba-config-nacos-client3377" target="1.8" />
-      <module name="cloudalibaba-consumer-nacos-order83" target="1.8" />
-      <module name="cloudalibaba-consumer-nacos-order84" target="1.8" />
-      <module name="cloudalibaba-provider-payment9001" target="1.8" />
-      <module name="cloudalibaba-provider-payment9002" target="1.8" />
-      <module name="cloudalibaba-provider-payment9003" target="1.8" />
-      <module name="cloudalibaba-provider-payment9004" target="1.8" />
-      <module name="cloudalibaba-sentinel-service8401" target="1.8" />
-      <module name="demo-spring-boot-starter" target="1.8" />
+      <module name="cloud-api-commons" target="15" />
+      <module name="cloud-config-center-3344" target="15" />
+      <module name="cloud-config-client-3355" target="15" />
+      <module name="cloud-config-client-3366" target="15" />
+      <module name="cloud-consumer-feign-hystrix-order80" target="15" />
+      <module name="cloud-consumer-feign-order80" target="15" />
+      <module name="cloud-consumer-hystrix-dashboard9001" target="15" />
+      <module name="cloud-consumer-order80" target="15" />
+      <module name="cloud-consumerconsul-order80" target="15" />
+      <module name="cloud-consumerzk-order80" target="15" />
+      <module name="cloud-eureka-server7001" target="15" />
+      <module name="cloud-eureka-server7002" target="15" />
+      <module name="cloud-gateway-gateway9527" target="15" />
+      <module name="cloud-provider-hystrix-payment8001" target="15" />
+      <module name="cloud-provider-payment8001" target="15" />
+      <module name="cloud-provider-payment8002" target="15" />
+      <module name="cloud-provider-payment8004" target="15" />
+      <module name="cloud-providerconsul-payment8006" target="15" />
+      <module name="cloud-stream-rabbitmq-consumer8802" target="15" />
+      <module name="cloud-stream-rabbitmq-consumer8803" target="15" />
+      <module name="cloud-stream-rabbitmq-provider8801" target="15" />
+      <module name="cloudalibaba-config-nacos-client3377" target="15" />
+      <module name="cloudalibaba-consumer-nacos-order83" target="15" />
+      <module name="cloudalibaba-consumer-nacos-order84" target="15" />
+      <module name="cloudalibaba-provider-payment9001" target="15" />
+      <module name="cloudalibaba-provider-payment9002" target="15" />
+      <module name="cloudalibaba-provider-payment9003" target="15" />
+      <module name="cloudalibaba-provider-payment9004" target="15" />
+      <module name="cloudalibaba-sentinel-service8401" target="15" />
+      <module name="demo-spring-boot-starter" target="15" />
       <module name="java-jc" target="9" />
-      <module name="microservice-cloud-01" target="1.8" />
-      <module name="microservice-cloud-02-api" target="1.8" />
-      <module name="microservice-cloud-03-provider-product-8001" target="1.8" />
-      <module name="microservice-cloud-04-consumer-product-80" target="1.8" />
-      <module name="microservice-cloud-05-eureka-6001" target="1.8" />
-      <module name="microservice-cloud-05-eureka-6002" target="1.8" />
-      <module name="microservice-cloud-06-provider-product-8002" target="1.8" />
-      <module name="microservice-cloud-07-consumer-product-feign" target="1.8" />
-      <module name="microservice-cloud-08-provider-product-hystrix-8001" target="1.8" />
-      <module name="microservice-cloud-09-hystrix-dashboard-9001" target="1.8" />
-      <module name="microservice-cloud-10-zuul-gateway-7001" target="1.8" />
-      <module name="microservice-cloud-11-config-server-5001" target="1.8" />
-      <module name="microservice-cloud-12-config-client-8080" target="1.8" />
-      <module name="microservice-cloud-13-eureka-config-6001" target="1.8" />
-      <module name="microservice-cloud-14-product-config-8001" target="1.8" />
-      <module name="seata-account-service2003" target="1.8" />
-      <module name="seata-order-service2001" target="1.8" />
-      <module name="seata-storage-service2002" target="1.8" />
-      <module name="spring-01" target="1.8" />
-      <module name="spring-02" target="1.8" />
-      <module name="spring-03" target="1.8" />
-      <module name="spring-04" target="1.8" />
+      <module name="microservice-cloud-01" target="15" />
+      <module name="microservice-cloud-02-api" target="15" />
+      <module name="microservice-cloud-03-provider-product-8001" target="15" />
+      <module name="microservice-cloud-04-consumer-product-80" target="15" />
+      <module name="microservice-cloud-05-eureka-6001" target="15" />
+      <module name="microservice-cloud-05-eureka-6002" target="15" />
+      <module name="microservice-cloud-06-provider-product-8002" target="15" />
+      <module name="microservice-cloud-07-consumer-product-feign" target="15" />
+      <module name="microservice-cloud-08-provider-product-hystrix-8001" target="15" />
+      <module name="microservice-cloud-09-hystrix-dashboard-9001" target="15" />
+      <module name="microservice-cloud-10-zuul-gateway-7001" target="15" />
+      <module name="microservice-cloud-11-config-server-5001" target="15" />
+      <module name="microservice-cloud-12-config-client-8080" target="15" />
+      <module name="microservice-cloud-13-eureka-config-6001" target="15" />
+      <module name="microservice-cloud-14-product-config-8001" target="15" />
+      <module name="seata-account-service2003" target="15" />
+      <module name="seata-order-service2001" target="15" />
+      <module name="seata-storage-service2002" target="15" />
+      <module name="spring-01" target="15" />
+      <module name="spring-02" target="15" />
+      <module name="spring-03" target="15" />
+      <module name="spring-04" target="15" />
       <module name="spring-annotation" target="8" />
-      <module name="spring-boot-00-bill" target="1.8" />
-      <module name="spring-boot-01-hello" target="1.8" />
-      <module name="spring-boot-01-init-02" target="1.8" />
-      <module name="spring-boot-02-config" target="1.8" />
-      <module name="spring-boot-02-config-02" target="1.8" />
-      <module name="spring-boot-03-logging" target="1.8" />
-      <module name="spring-boot-04-web" target="1.8" />
-      <module name="spring-boot-05-bill" target="1.8" />
-      <module name="spring-boot-06-servlet" target="1.8" />
-      <module name="spring-boot-07-tomcat" target="1.8" />
-      <module name="spring-boot-08-data-jdbc" target="1.8" />
-      <module name="spring-boot-08-data-mybatis" target="1.8" />
-      <module name="spring-boot-09-data-jpa" target="1.8" />
-      <module name="spring-boot-10-bill" target="1.8" />
-      <module name="spring-boot-11-task" target="1.8" />
-      <module name="spring-boot-12-mail" target="1.8" />
-      <module name="spring-boot-13-cache" target="1.8" />
-      <module name="springcloudall" target="1.8" />
+      <module name="spring-boot-00-bill" target="15" />
+      <module name="spring-boot-01-hello" target="15" />
+      <module name="spring-boot-01-init-02" target="15" />
+      <module name="spring-boot-02-config" target="15" />
+      <module name="spring-boot-02-config-02" target="15" />
+      <module name="spring-boot-03-logging" target="15" />
+      <module name="spring-boot-04-web" target="15" />
+      <module name="spring-boot-05-bill" target="15" />
+      <module name="spring-boot-06-servlet" target="15" />
+      <module name="spring-boot-07-tomcat" target="15" />
+      <module name="spring-boot-08-data-jdbc" target="15" />
+      <module name="spring-boot-08-data-mybatis" target="15" />
+      <module name="spring-boot-09-data-jpa" target="15" />
+      <module name="spring-boot-10-bill" target="15" />
+      <module name="spring-boot-11-task" target="15" />
+      <module name="spring-boot-12-mail" target="15" />
+      <module name="spring-boot-13-cache" target="15" />
+      <module name="springcloudall" target="15" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
