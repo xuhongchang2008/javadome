@@ -46,8 +46,11 @@
         <option value="$PROJECT_DIR$/springsource/spring-annotation/pom.xml" />
         <option value="$PROJECT_DIR$/springcloudall/pom.xml" />
         <option value="$PROJECT_DIR$/demo-spring-boot-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/ElasticsearchStudy/pom.xml" />
+        <option value="$PROJECT_DIR$/RedisStudy/pom.xml" />
+        <option value="$PROJECT_DIR$/KafkaStudy/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_15" project-jdk-name="15" project-jdk-type="JavaSDK" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_14" project-jdk-name="15" project-jdk-type="JavaSDK" />
 </project>

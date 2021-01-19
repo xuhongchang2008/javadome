@@ -24,7 +24,7 @@ public class Demo4 {
     ObjectMapper mapper = new ObjectMapper();
     RestHighLevelClient client =  EsClient.getClient();
     String index = "sms-logs-index";
-    String type="sms-logs-type";
+    String type="_doc";
 
     @Test
     public void createIndex() throws  Exception{

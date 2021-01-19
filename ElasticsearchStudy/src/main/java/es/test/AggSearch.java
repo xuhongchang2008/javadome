@@ -18,7 +18,7 @@ public class AggSearch {
 
     RestHighLevelClient client =  EsClient.getClient();
     String index = "sms-logs-index";
-    String type="sms-logs-type";
+    String type="_doc";
 
     @Test
     public void aggCardinalityC() throws IOException {

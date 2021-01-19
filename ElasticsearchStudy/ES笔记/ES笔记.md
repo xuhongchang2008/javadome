@@ -157,6 +157,7 @@ PS:版本不同,类型的创建也不同
 ##### 3.2操作ES的restful语法
 
 ```
+在7.x以后，type，默认是_doc
 GET请求：
 	http://ip:port/index :查询索引信息
 	http://ip:port/index/type/doc_id :查询指定的文档信息

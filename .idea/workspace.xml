@@ -22,11 +22,72 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3312e79d-a035-4f11-9042-e28fc673b599" name="Default Changelist" comment="添加 Juc 资料">
+    <list default="true" id="3312e79d-a035-4f11-9042-e28fc673b599" name="Default Changelist" comment="添加 Juc 资料 及 代码">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cn_hutool_hutool_all_5_5_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_carrotsearch_hppc_0_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_cbor_2_8_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_smile_2_8_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_8_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_spullara_mustache_java_compiler_0_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_tdunning_t_digest_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_pool_commons_pool_1_5_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_jpountz_lz4_lz4_1_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_jopt_simple_jopt_simple_5_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpasyncclient_4_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_nio_4_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_clients_0_11_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_analyzers_common_7_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_backward_codecs_7_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_core_7_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_grouping_7_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_highlighter_7_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_join_7_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_memory_7_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_misc_7_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_queries_7_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_queryparser_7_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_sandbox_7_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_spatial3d_7_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_spatial_7_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_spatial_extras_7_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_suggest_7_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_client_elasticsearch_rest_client_6_8_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_client_elasticsearch_rest_high_level_client_6_8_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_elasticsearch_6_8_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_elasticsearch_cli_6_8_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_elasticsearch_core_6_8_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_elasticsearch_secure_sm_6_8_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_elasticsearch_x_content_6_8_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_jna_4_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_plugin_aggs_matrix_stats_client_6_8_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_plugin_lang_mustache_client_6_8_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_plugin_parent_join_client_6_8_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_plugin_rank_eval_client_6_8_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_1_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RedisStudy/RedisStudy.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__cn_hutool_hutool_all_5_5_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElasticsearchStudy/ES笔记/ES笔记.md" beforeDir="false" afterPath="$PROJECT_DIR$/ElasticsearchStudy/ES笔记/ES笔记.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElasticsearchStudy/ElasticsearchStudy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ElasticsearchStudy/ElasticsearchStudy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElasticsearchStudy/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ElasticsearchStudy/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElasticsearchStudy/src/main/java/es/test/AggSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/ElasticsearchStudy/src/main/java/es/test/AggSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElasticsearchStudy/src/main/java/es/test/Demo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/ElasticsearchStudy/src/main/java/es/test/Demo4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElasticsearchStudy/target/classes/es/test/AggSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/ElasticsearchStudy/target/classes/es/test/AggSearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElasticsearchStudy/target/classes/es/test/Demo4.class" beforeDir="false" afterPath="$PROJECT_DIR$/ElasticsearchStudy/target/classes/es/test/Demo4.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo-spring-boot-starter/demo-spring-boot-starter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/demo-spring-boot-starter/demo-spring-boot-starter.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/springboot/spring-boot-00-bill/spring-boot-00-bill.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot/spring-boot-00-bill/spring-boot-00-bill.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/springboot/spring-boot-01-hello/spring-boot-01-hello.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot/spring-boot-01-hello/spring-boot-01-hello.iml" afterDir="false" />
@@ -109,7 +170,7 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="D:\Maven\maven-repository" />
-        <option name="mavenHome" value="D:\apache-maven\apache-maven-3.6.3" />
+        <option name="mavenHome" value="D:/apache-maven/apache-maven-3.6.3" />
         <option name="userSettingsFile" value="D:\apache-maven\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -129,11 +190,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/java-jc/src/main/java/com/xhc/javabased/java_jj/code_16" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/KafkaStudy/pom.xml" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.67471266" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="ReactorSettings">
     <option name="notificationShown" value="true" />
@@ -157,13 +218,13 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo_8">
-    <configuration name="Demo_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xhc.javabased.java_jj.code_16.JUC_04.Demo_8" />
-      <module name="java-jc" />
+  <component name="RunManager" selected="Application.Demo01Const">
+    <configuration name="AsyncCommitOffset" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xhc.kafka.consumer.AsyncCommitOffset" />
+      <module name="KafkaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xhc.javabased.java_jj.code_16.JUC_04.*" />
+          <option name="PATTERN" value="com.xhc.kafka.consumer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,12 +232,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestForkJoinPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xhc.javabased.java_jj.code_16.JUC_02.TestForkJoinPool" />
-      <module name="java-jc" />
+    <configuration name="CustomConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xhc.kafka.consumer.CustomConsumer" />
+      <module name="KafkaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xhc.javabased.java_jj.code_16.JUC_02.*" />
+          <option name="PATTERN" value="com.xhc.kafka.consumer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,12 +245,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestForkJoinPoolTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xhc.javabased.java_jj.code_16.JUC_02.TestForkJoinPoolTwo" />
+    <configuration name="Demo01Const" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xhc.javabased.java_jc.code_01.Demo01Const" />
       <module name="java-jc" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xhc.javabased.java_jj.code_16.JUC_02.*" />
+          <option name="PATTERN" value="com.xhc.javabased.java_jc.code_01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -197,28 +258,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestScheduledThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xhc.javabased.java_jj.code_16.JUC_02.TestScheduledThreadPool" />
-      <module name="java-jc" />
+    <configuration name="AggSearch.aggCardinalityC" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ElasticsearchStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xhc.javabased.java_jj.code_16.JUC_02.*" />
+          <option name="PATTERN" value="es.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="es.test" />
+      <option name="MAIN_CLASS_NAME" value="es.test.AggSearch" />
+      <option name="METHOD_NAME" value="aggCardinalityC" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xhc.javabased.java_jj.code_16.JUC_02.TestThreadPool" />
-      <module name="java-jc" />
+    <configuration name="Demo4.createIndex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ElasticsearchStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xhc.javabased.java_jj.code_16.JUC_02.*" />
+          <option name="PATTERN" value="es.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="es.test" />
+      <option name="MAIN_CLASS_NAME" value="es.test.Demo4" />
+      <option name="METHOD_NAME" value="createIndex" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -554,15 +621,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo_8" />
-        <item itemvalue="Application.TestForkJoinPoolTwo" />
-        <item itemvalue="Application.TestForkJoinPool" />
-        <item itemvalue="Application.TestThreadPool" />
-        <item itemvalue="Application.TestScheduledThreadPool" />
+        <item itemvalue="Application.Demo01Const" />
+        <item itemvalue="Application.CustomConsumer" />
+        <item itemvalue="Application.AsyncCommitOffset" />
+        <item itemvalue="JUnit.Demo4.createIndex" />
+        <item itemvalue="JUnit.AggSearch.aggCardinalityC" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -589,10 +656,12 @@
       <workItem from="1610411894949" duration="9583000" />
       <workItem from="1610498456904" duration="13419000" />
       <workItem from="1610584497019" duration="14207000" />
-      <workItem from="1610736785325" duration="635000" />
-      <workItem from="1610758319123" duration="345000" />
-      <workItem from="1610758728972" duration="18000" />
-      <workItem from="1610758780715" duration="108000" />
+      <workItem from="1610959152378" duration="2678000" />
+      <workItem from="1611016864058" duration="2033000" />
+      <workItem from="1611035538972" duration="1243000" />
+      <workItem from="1611038658612" duration="22000" />
+      <workItem from="1611039351659" duration="985000" />
+      <workItem from="1611043017394" duration="105000" />
     </task>
     <task id="LOCAL-00001" summary="添加spring cloud 部分">
       <created>1609485357341</created>
@@ -696,7 +765,7 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -717,6 +786,72 @@
     <MESSAGE value="添加 jmm 资料" />
     <MESSAGE value="添加 Juc 资料" />
     <option name="LAST_COMMIT_MESSAGE" value="添加 Juc 资料" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-768" y="112" key="#xdebugger.evaluate" timestamp="1610587889504">
+      <screen x="-1920" y="8" width="1920" height="1040" />
+    </state>
+    <state x="-768" y="112" key="#xdebugger.evaluate/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1610587889504" />
+    <state width="394" height="618" key="DebuggerActiveHint" timestamp="1610587732710">
+      <screen x="-1920" y="8" width="1920" height="1040" />
+    </state>
+    <state width="394" height="618" key="DebuggerActiveHint/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1610587732710" />
+    <state x="-873" y="241" key="FileChooserDialogImpl" timestamp="1611043056042">
+      <screen x="-1920" y="8" width="1920" height="1040" />
+    </state>
+    <state x="-873" y="241" key="FileChooserDialogImpl/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1611043056042" />
+    <state width="1877" height="245" key="GridCell.Tab.0.bottom" timestamp="1610962505431">
+      <screen x="-1920" y="8" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="245" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1610962505431" />
+    <state width="1877" height="245" key="GridCell.Tab.0.center" timestamp="1610962505430">
+      <screen x="-1920" y="8" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="245" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1610962505430" />
+    <state width="1877" height="245" key="GridCell.Tab.0.left" timestamp="1610962505430">
+      <screen x="-1920" y="8" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="245" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1610962505430" />
+    <state width="1877" height="245" key="GridCell.Tab.0.right" timestamp="1610962505431">
+      <screen x="-1920" y="8" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="245" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1610962505431" />
+    <state width="1877" height="339" key="GridCell.Tab.1.bottom" timestamp="1610600668074">
+      <screen x="-1920" y="8" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="339" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1610600668074" />
+    <state width="1877" height="339" key="GridCell.Tab.1.center" timestamp="1610600668074">
+      <screen x="-1920" y="8" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="339" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1610600668074" />
+    <state width="1877" height="339" key="GridCell.Tab.1.left" timestamp="1610600668074">
+      <screen x="-1920" y="8" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="339" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1610600668074" />
+    <state width="1877" height="339" key="GridCell.Tab.1.right" timestamp="1610600668074">
+      <screen x="-1920" y="8" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="339" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1610600668074" />
+    <state x="-1430" y="182" key="Maven.ArtifactSearchDialog" timestamp="1610960506839">
+      <screen x="-1920" y="8" width="1920" height="1040" />
+    </state>
+    <state x="-1430" y="182" key="Maven.ArtifactSearchDialog/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1610960506839" />
+    <state x="-1459" y="172" key="SettingsEditor" timestamp="1611043121848">
+      <screen x="-1920" y="8" width="1920" height="1040" />
+    </state>
+    <state x="-1459" y="172" key="SettingsEditor/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1611043121848" />
+    <state x="-1368" y="256" key="Vcs.Push.Dialog.v2" timestamp="1610532131141">
+      <screen x="-1920" y="8" width="1920" height="1040" />
+    </state>
+    <state x="-1368" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1610532131141" />
+    <state x="-1231" y="316" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1610586647098">
+      <screen x="-1920" y="8" width="1920" height="1040" />
+    </state>
+    <state x="-1231" y="316" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1610586647098" />
+    <state x="-1257" y="244" width="594" height="568" key="find.popup" timestamp="1610960537528">
+      <screen x="-1920" y="8" width="1920" height="1040" />
+    </state>
+    <state x="-1257" y="244" width="594" height="568" key="find.popup/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1610960537528" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
