@@ -22,7 +22,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3312e79d-a035-4f11-9042-e28fc673b599" name="Default Changelist" comment="添加 kafka,redis 资料">
+    <list default="true" id="3312e79d-a035-4f11-9042-e28fc673b599" name="Default Changelist" comment="完善知识总结exl">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_1_18_8_35_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_1_18_8_35__Default_Changelist_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java知识总结.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/java知识总结.xlsx" afterDir="false" />
     </list>
@@ -538,7 +540,8 @@
       <workItem from="1611043017394" duration="1793000" />
       <workItem from="1611106059777" duration="635000" />
       <workItem from="1611189854636" duration="834000" />
-      <workItem from="1611275573415" duration="3167000" />
+      <workItem from="1611275573415" duration="4052000" />
+      <workItem from="1611535576576" duration="1256000" />
     </task>
     <task id="LOCAL-00001" summary="添加spring cloud 部分">
       <created>1609485357341</created>
@@ -645,7 +648,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611043351993</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="完善知识总结exl">
+      <created>1611307437337</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1611307437337</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -670,7 +680,8 @@
     <MESSAGE value="添加 jmm 资料" />
     <MESSAGE value="添加 Juc 资料" />
     <MESSAGE value="添加 kafka,redis 资料" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加 kafka,redis 资料" />
+    <MESSAGE value="完善知识总结exl" />
+    <option name="LAST_COMMIT_MESSAGE" value="完善知识总结exl" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-768" y="112" key="#xdebugger.evaluate" timestamp="1610587889504">
@@ -725,10 +736,10 @@
       <screen x="-1920" y="8" width="1920" height="1040" />
     </state>
     <state x="-1459" y="172" key="SettingsEditor/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1611043121848" />
-    <state x="-1368" y="256" key="Vcs.Push.Dialog.v2" timestamp="1611043364027">
+    <state x="-1368" y="256" key="Vcs.Push.Dialog.v2" timestamp="1611307450991">
       <screen x="-1920" y="8" width="1920" height="1040" />
     </state>
-    <state x="-1368" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1611043364027" />
+    <state x="-1368" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1611307450991" />
     <state x="-1231" y="316" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1610586647098">
       <screen x="-1920" y="8" width="1920" height="1040" />
     </state>
