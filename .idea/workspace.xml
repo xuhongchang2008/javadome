@@ -23,8 +23,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3312e79d-a035-4f11-9042-e28fc673b599" name="Default Changelist" comment="完善知识总结exl">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_1_18_8_35_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_1_18_8_35__Default_Changelist_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java知识总结.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/java知识总结.xlsx" afterDir="false" />
     </list>
@@ -72,7 +70,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/KafkaStudy/pom.xml" />
+    <property name="last_opened_file_path" value="E:/工作文件/代码/学科网3/JavaCode/dsp-document" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.67471266" />
@@ -541,7 +539,11 @@
       <workItem from="1611106059777" duration="635000" />
       <workItem from="1611189854636" duration="834000" />
       <workItem from="1611275573415" duration="4052000" />
-      <workItem from="1611535576576" duration="1256000" />
+      <workItem from="1611535576576" duration="3590000" />
+      <workItem from="1611621049016" duration="1202000" />
+      <workItem from="1611708366741" duration="2705000" />
+      <workItem from="1611796235943" duration="599000" />
+      <workItem from="1611806646435" duration="3913000" />
     </task>
     <task id="LOCAL-00001" summary="添加spring cloud 部分">
       <created>1609485357341</created>
@@ -655,7 +657,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611307437337</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="完善知识总结exl">
+      <created>1611562883402</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1611562883402</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -692,10 +701,10 @@
       <screen x="-1920" y="8" width="1920" height="1040" />
     </state>
     <state width="394" height="618" key="DebuggerActiveHint/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1610587732710" />
-    <state x="-873" y="241" key="FileChooserDialogImpl" timestamp="1611043056042">
+    <state x="-873" y="241" key="FileChooserDialogImpl" timestamp="1611732685384">
       <screen x="-1920" y="8" width="1920" height="1040" />
     </state>
-    <state x="-873" y="241" key="FileChooserDialogImpl/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1611043056042" />
+    <state x="-873" y="241" key="FileChooserDialogImpl/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1611732685384" />
     <state width="1877" height="245" key="GridCell.Tab.0.bottom" timestamp="1611044971456">
       <screen x="-1920" y="8" width="1920" height="1040" />
     </state>
@@ -736,10 +745,10 @@
       <screen x="-1920" y="8" width="1920" height="1040" />
     </state>
     <state x="-1459" y="172" key="SettingsEditor/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1611043121848" />
-    <state x="-1368" y="256" key="Vcs.Push.Dialog.v2" timestamp="1611307450991">
+    <state x="-1368" y="256" key="Vcs.Push.Dialog.v2" timestamp="1611562890551">
       <screen x="-1920" y="8" width="1920" height="1040" />
     </state>
-    <state x="-1368" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1611307450991" />
+    <state x="-1368" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1611562890551" />
     <state x="-1231" y="316" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1610586647098">
       <screen x="-1920" y="8" width="1920" height="1040" />
     </state>
