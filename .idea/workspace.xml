@@ -543,7 +543,9 @@
       <workItem from="1611621049016" duration="1202000" />
       <workItem from="1611708366741" duration="2705000" />
       <workItem from="1611796235943" duration="599000" />
-      <workItem from="1611806646435" duration="3913000" />
+      <workItem from="1611806646435" duration="5018000" />
+      <workItem from="1611880586660" duration="1215000" />
+      <workItem from="1612139808541" duration="1960000" />
     </task>
     <task id="LOCAL-00001" summary="添加spring cloud 部分">
       <created>1609485357341</created>
@@ -664,7 +666,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611562883402</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="完善知识总结exl">
+      <created>1611825362925</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1611825362925</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -745,10 +754,10 @@
       <screen x="-1920" y="8" width="1920" height="1040" />
     </state>
     <state x="-1459" y="172" key="SettingsEditor/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1611043121848" />
-    <state x="-1368" y="256" key="Vcs.Push.Dialog.v2" timestamp="1611562890551">
+    <state x="-1368" y="256" key="Vcs.Push.Dialog.v2" timestamp="1611825375415">
       <screen x="-1920" y="8" width="1920" height="1040" />
     </state>
-    <state x="-1368" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1611562890551" />
+    <state x="-1368" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1611825375415" />
     <state x="-1231" y="316" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1610586647098">
       <screen x="-1920" y="8" width="1920" height="1040" />
     </state>
